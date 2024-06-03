@@ -1,0 +1,147 @@
+[
+    {
+      "id": "b9c0d",
+      "picture": "https://example.com/fitness_tracker.jpg",
+      "picture_1:1": "https://example.com/fitness_tracker_square.jpg",
+      "title": "Fitness Tracker",
+      "category": "health",
+      "category_bg": "bg-blue-200",
+      "card_bg": "bg-blue-300",
+      "text_color": "text-blue-600",
+      "description": "Stay on top of your health with this advanced fitness tracker. It monitors your heart rate, steps, sleep patterns, and more. The intuitive interface and long battery life make it a must-have for anyone serious about their health. Whether you're running, cycling, or just going about your daily routine, this tracker provides you with the data you need to optimize your fitness and well-being. Easy to sync with your smartphone, you can set goals, track progress, and stay motivated to achieve a healthier lifestyle.",
+      "price": 259
+    },
+    {
+      "id": "a1b2c",
+      "picture": "https://example.com/smart_backpack.jpg",
+      "picture_1:1": "https://example.com/smart_backpack_square.jpg",
+      "title": "Smart Backpack",
+      "category": "cloth",
+      "category_bg": "bg-green-200",
+      "card_bg": "bg-green-300",
+      "text_color": "text-green-600",
+      "description": "This smart backpack is perfect for tech-savvy individuals. It features multiple compartments for all your gadgets, including a padded laptop sleeve, a USB charging port, and RFID protection. The durable material and ergonomic design ensure comfort and security. Ideal for students, professionals, and travelers, this backpack combines style and functionality. Stay organized and connected on the go with this innovative accessory that keeps your essentials protected and easily accessible.",
+      "price": 217
+    },
+    {
+      "id": "a1g2c",
+      "picture": "https://example.com/online_course_subscription.jpg",
+      "picture_1:1": "https://example.com/online_course_subscription_square.jpg",
+      "title": "Online Course Subscription",
+      "category": "education",
+      "category_bg": "bg-red-200",
+      "card_bg": "bg-red-300",
+      "text_color": "text-red-600",
+      "description": "Gain unlimited access to a vast library of online courses with this subscription. Learn from experts in various fields, including technology, business, arts, and more. The platform offers interactive lessons, video tutorials, and practical exercises to enhance your learning experience. Whether you're looking to advance your career, learn a new skill, or explore a hobby, this subscription provides you with the resources and support you need to succeed. Stay ahead of the curve with high-quality, flexible learning at your fingertips.",
+      "price": 245
+    },
+    {
+      "id": "kj4ld",
+      "picture": "https://example.com/organic_meal_kit.jpg",
+      "picture_1:1": "https://example.com/organic_meal_kit_square.jpg",
+      "title": "Organic Meal Kit",
+      "category": "food",
+      "category_bg": "bg-orange-200",
+      "card_bg": "bg-orange-300",
+      "text_color": "text-orange-600",
+      "description": "Experience the convenience of home-cooked meals with our organic meal kits. Each kit includes fresh, locally sourced ingredients and easy-to-follow recipes. Enjoy a variety of dishes that cater to different dietary preferences, including vegetarian, vegan, and gluten-free options. With our meal kits, you can prepare delicious, nutritious meals in under 30 minutes. Save time on grocery shopping and meal planning while enjoying the health benefits of home-cooked food. Perfect for busy individuals and families who want to eat well without the hassle.",
+      "price": 276
+    },
+    {
+      "id": "fda44",
+      "picture": "https://example.com/designer_jacket.jpg",
+      "picture_1:1": "https://example.com/designer_jacket_square.jpg",
+      "title": "Designer Jacket",
+      "category": "cloth",
+      "category_bg": "bg-green-200",
+      "card_bg": "bg-green-300",
+      "text_color": "text-green-600",
+      "description": "Stay stylish and warm with this designer jacket. Made from high-quality materials, it offers both comfort and durability. The modern design features a slim fit, multiple pockets, and a hood for added protection against the elements. Available in various colors and sizes, this jacket is perfect for any occasion, whether you're heading to work, running errands, or enjoying a night out. Elevate your wardrobe with this versatile and fashionable piece that combines functionality with high-end design.",
+      "price": 289
+    },
+    {
+      "id": "fd4r2",
+      "picture": "https://example.com/advanced_yoga_mat.jpg",
+      "picture_1:1": "https://example.com/advanced_yoga_mat_square.jpg",
+      "title": "Advanced Yoga Mat",
+      "category": "health",
+      "category_bg": "bg-blue-200",
+      "card_bg": "bg-blue-300",
+      "text_color": "text-blue-600",
+      "description": "Enhance your yoga practice with this advanced yoga mat. Made from eco-friendly materials, it offers excellent grip and cushioning, providing support for your joints and muscles. The non-slip surface ensures stability during even the most challenging poses. Lightweight and easy to carry, this mat is perfect for use at home, in the studio, or on the go. Its durable construction means it will last through countless sessions, helping you to maintain a consistent practice and achieve your fitness goals.",
+      "price": 212
+    },
+    {
+      "id": "faa2a",
+      "picture": "https://example.com/gourmet_chocolate_box.jpg",
+      "picture_1:1": "https://example.com/gourmet_chocolate_box_square.jpg",
+      "title": "Gourmet Chocolate Box",
+      "category": "food",
+      "category_bg": "bg-orange-200",
+      "card_bg": "bg-orange-300",
+      "text_color": "text-orange-600",
+      "description": "Indulge in the rich, exquisite flavors of our gourmet chocolate box. Handcrafted with the finest ingredients, each piece is a work of art, combining traditional techniques with innovative flavors. Perfect for gifting or treating yourself, this chocolate box offers a variety of dark, milk, and white chocolates, filled with luscious ganaches, pralines, and caramels. Enjoy a luxurious tasting experience that will delight your senses and satisfy your sweet tooth.",
+      "price": 228
+    },
+    {
+     "id":"fu2ck",
+      "picture": "https://example.com/luxury_bathrobe.jpg",
+      "picture_1:1": "https://example.com/luxury_bathrobe_square.jpg",
+      "title": "Luxury Bathrobe",
+      "category": "cloth",
+      "category_bg": "bg-green-200",
+      "card_bg": "bg-green-300",
+      "text_color": "text-green-600",
+      "description": "Wrap yourself in comfort with this luxury bathrobe. Made from soft, absorbent fabric, it provides a spa-like experience at home. The robe features a classic design with a shawl collar, tie belt, and deep pockets, making it both stylish and functional. Ideal for lounging, post-shower relaxation, or as a gift for someone special, this bathrobe brings a touch of elegance and comfort to your everyday routine.",
+      "price": 219
+    },
+    {
+      "id":"0name", 
+      "picture": "https://example.com/smart_home_speaker.jpg",
+      "picture_1:1": "https://example.com/smart_home_speaker_square.jpg",
+      "title": "Smart Home Speaker",
+      "category": "education",
+      "category_bg": "bg-red-200",
+      "card_bg": "bg-red-300",
+      "text_color": "text-red-600",
+      "description": "Transform your living space with this smart home speaker. It not only plays high-quality audio but also integrates with your smart home devices, allowing you to control lighting, temperature, and security with your voice. With built-in virtual assistant technology, you can ask questions, set reminders, and get real-time information on news, weather, and more. Sleek and stylish, this smart speaker is a versatile addition to any home, enhancing both entertainment and convenience.",
+      "price": 276
+    },
+    {
+      "id":"jan3i",
+      "picture": "https://example.com/noise_cancelling_headphones.jpg",
+      "picture_1:1": "https://example.com/noise_cancelling_headphones_square.jpg",
+      "title": "Noise Cancelling Headphones",
+      "category": "health",
+      "category_bg": "bg-blue-200",
+      "card_bg": "bg-blue-300",
+      "text_color": "text-blue-600",
+      "description": "Experience immersive sound with these noise-cancelling headphones. They provide high-quality audio and effective noise cancellation, allowing you to enjoy your music or focus on your work without distractions. Comfortable and adjustable, these headphones are perfect for long listening sessions. With a sleek design and durable build, they are a great choice for both daily use and travel. Stay connected with the world of sound while blocking out unwanted noise.",
+      "price": 263
+    },
+    {
+      "id":"4g7ll",
+      "picture": "https://example.com/smart_thermostat.jpg",
+      "picture_1:1": "https://example.com/smart_thermostat_square.jpg",
+      "title": "Smart Thermostat",
+      "category": "education",
+      "category_bg": "bg-red-200",
+      "card_bg": "bg-red-300",
+      "text_color": "text-red-600",
+      "description": "Upgrade your home's climate control with this smart thermostat. It learns your preferences and automatically adjusts the temperature for optimal comfort and energy efficiency. Compatible with most HVAC systems, it can be controlled remotely via a smartphone app, allowing you to monitor and adjust settings from anywhere. With easy installation and intuitive controls, this thermostat helps you save on energy bills while maintaining a comfortable living environment.",
+      "price": 288
+    },
+    {
+      "id":"ewo9k",
+      "picture": "https://example.com/gourmet_coffee_set.jpg",
+      "picture_1:1": "https://example.com/gourmet_coffee_set_square.jpg",
+      "title": "Gourmet Coffee Set",
+      "category": "food",
+      "category_bg": "bg-orange-200",
+      "card_bg": "bg-orange-300",
+      "text_color": "text-orange-600",
+      "description": "Savor the rich flavors of our gourmet coffee set. This collection includes a variety of premium coffee beans, each sourced from top coffee-growing regions around the world. Whether you prefer a bold, dark roast or a smooth, medium blend, this set has something to satisfy every palate. Perfect for coffee enthusiasts and connoisseurs, it comes in an elegant gift box, making it an excellent present for any occasion. Brew a perfect cup and enjoy the best coffee has to offer.",
+      "price": 248
+    }
+  ]
+  
